@@ -1,4 +1,7 @@
 # mrp
+
+public static void main(String args[]);
+
 int myNumber = 0;
 System.out.print("Number is " + myNumber);
 
